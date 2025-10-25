@@ -3,3 +3,5 @@ To run locally on your machine, unzip or clone the local_run_paterne to your mac
 Make sure that have stooped the previous run (clock on stop twice) before you run again.
 Alternatively, for local run you can use gcc or other tools instead of Jupyter Notebook; copy the script as your Python file, then compile and run.
 Directory named "static" contains the background image for the app.
+An test image (jpg) file is available in this directory.
+Access I left in the the config only for testing purpose. In production, security bkm will be used.
